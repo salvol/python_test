@@ -1,0 +1,6 @@
+name: myenv36
+channels:
+  - conda-forge
+  - http://dmpelt.gitlab.io/sirtfilter/
+  - defaults
+prefix: C:\Users\salvol\anaconda3\envs\myenv36
