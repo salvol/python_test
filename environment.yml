@@ -6,3 +6,4 @@ channels:
 dependencies :
   - numpy
   - matplotlib
+  - xraydb
