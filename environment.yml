@@ -4,10 +4,10 @@ channels:
   - http://dmpelt.gitlab.io/sirtfilter/
   - defaults
 dependencies :
+  - python
   - numpy
   - matplotlib
   - xraydb
-  - python
   - pip
   pip :
     - spekpy
