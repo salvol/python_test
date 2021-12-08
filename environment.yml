@@ -1,14 +1,13 @@
 name: myenv36
 channels:
   - conda-forge
-  - http://dmpelt.gitlab.io/sirtfilter/
-  - defaults
 dependencies:
   - python
   - numpy
   - matplotlib
   - xraydb
   - pip
-  pip:
+  - pip:
     - spekpy
+
 
