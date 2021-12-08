@@ -7,5 +7,7 @@ dependencies :
   - numpy
   - matplotlib
   - xraydb
-  - spekpy
-  - astra-toolbox
+  - pip
+  pip :
+    - spekpy
+
