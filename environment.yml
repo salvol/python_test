@@ -3,12 +3,12 @@ channels:
   - conda-forge
   - http://dmpelt.gitlab.io/sirtfilter/
   - defaults
-dependencies :
+dependencies:
   - python
   - numpy
   - matplotlib
   - xraydb
   - pip
-  pip :
+  pip:
     - spekpy
 
